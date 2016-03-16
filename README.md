@@ -13,7 +13,7 @@ To use this repo, simply pullt the repo into your project and insert the followi
         }
     };
 </script>
-<script type="text/javascript" src = "./ab-detect/js/test.js" class = "adBlockTest"></script><div id = "ab-detect"></div>
+<script type="text/javascript" src = "./ab-detect/js/test.js" class = "adBlockTest"></script>
 ```
 
 **Note: remember to edit the `adblockCallback` to do what you need once the detection is finished!**
